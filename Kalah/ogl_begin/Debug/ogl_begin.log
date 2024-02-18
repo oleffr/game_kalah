@@ -1,0 +1,35 @@
+﻿  main.c
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(176,6): warning C4101: 'j': unreferenced local variable
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(200,45): warning C4029: declared formal parameter list different from definition
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(331,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(357,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(539,18): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(539,26): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(540,16): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(540,21): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(549,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(550,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(560,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(561,23): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(569,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(571,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(576,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(578,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(579,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(580,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(581,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(582,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(584,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(585,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(586,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(587,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(597,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(599,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(603,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(604,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(606,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(607,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(608,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(609,28): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\holym\Downloads\KalahOpt\ogl_begin\main.c(198): warning C4715: 'isEmptySide': not all control paths return a value
+  ogl_begin.vcxproj -> C:\Users\holym\Downloads\KalahOpt\Debug\ogl_begin.exe
